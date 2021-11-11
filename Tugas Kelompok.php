@@ -28,7 +28,7 @@ class KelompokPBO
 
 
 $KelompokPBO = new KELOMPOKPBO;
-$KelompokPBO->setnama("Farik F,Ridwan,rafsan,AP,M.Nurizki,M.Elki");
+$KelompokPBO->setnama("Farik F,Ridwan AP,M.Nurizki,M.Elki");
 $KelompokPBO->setTI("Teknik Informatika kelas B");
 
 echo $KelompokPBO->perkenalan();
